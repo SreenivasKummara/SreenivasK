@@ -1,5 +1,5 @@
 
-# Dr. Sreenivas Kummara
+                                                # Dr. Sreenivas Kummara
 Polymer Engineering & Science Laboraotry,
 Metallurgical Engineering & Material Science Department,
 Indian Institute of Technology Bombay, Powai. INDIA. 						             
@@ -32,7 +32,8 @@ At present since Apr. 2017, I am working as an institute postdoctoral fellow at 
 
 # Research Publications
 
-    You can also see full list here [scholar.google.co.in/citations?user=JJepfFlv9uwC&hl=e](url)
+Total list on Google scholar 
+[https://scholar.google.co.in/citations?user=JJepfFlv9uwC&hl=en](url)
 
 # 2017
 
