@@ -83,7 +83,7 @@ Macromolecules, 2011, 44, 2358-2364.
 
 11.	Tashiro, K.; Kummara, S.; Sato, M. “Isotope effect on the melt-isothermal crystallization process of polyethylene D/H random copolymers”. Manuscript in preparation.
 
-12. Sreenivas, K.; Deepa, K.;  Prakash, S.;  Rajdip,  B.; and Arup R. B. "Interfacial Interaction and Relaxation Phenomenon of  Polyvinyl Alcohol – Mesoporous Silica Composite Films".  Manuscripts in preparation
+12. Kummara, S.; Deepa, K.;  Prakash, S.;  Rajdip,  B.; and Arup R. B. "Interfacial Interaction and Relaxation Phenomenon of  Polyvinyl Alcohol – Mesoporous Silica Composite Films".  Manuscripts in preparation
 
 
 
